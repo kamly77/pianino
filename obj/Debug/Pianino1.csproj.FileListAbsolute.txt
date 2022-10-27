@@ -1,0 +1,7 @@
+C:\Users\chern\Desktop\Pianino1\Pianino1\bin\Debug\Pianino1.exe.config
+C:\Users\chern\Desktop\Pianino1\Pianino1\bin\Debug\Pianino1.exe
+C:\Users\chern\Desktop\Pianino1\Pianino1\bin\Debug\Pianino1.pdb
+C:\Users\chern\Desktop\Pianino1\Pianino1\obj\Debug\Pianino1.csprojAssemblyReference.cache
+C:\Users\chern\Desktop\Pianino1\Pianino1\obj\Debug\Pianino1.csproj.CoreCompileInputs.cache
+C:\Users\chern\Desktop\Pianino1\Pianino1\obj\Debug\Pianino1.exe
+C:\Users\chern\Desktop\Pianino1\Pianino1\obj\Debug\Pianino1.pdb
